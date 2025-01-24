@@ -4,7 +4,7 @@ This repository contains notes, examples, and resources from the **"Logic Circui
 
 ## Environment
 
-- **Hardware**: [Basys 3 Board](https://reference.digilentinc.com/reference/programmable-logic/basys-3/start](https://github.com/ShawnCai223/Logic-Circuits-and-Application-of-FPGA/blob/main/basys3_rm.pdf)
+- **Hardware**: [Basys 3 Board](https://github.com/ShawnCai223/Logic-Circuits-and-Application-of-FPGA/blob/main/basys3_rm.pdf)
 - **Software**: [Xilinx Vivado](https://www.xilinx.com/products/design-tools/vivado.html)
 
 ## Notes ([Details](https://github.com/ShawnCai223/Logic-Circuits-and-Application-of-FPGA/blob/main/FPGA.pdf))
@@ -16,7 +16,7 @@ This repository contains notes, examples, and resources from the **"Logic Circui
 5. **Finite State Machines (FSM)**: Designing FSMs with Verilog for complex sequential logic.
 6. **Practical Applications**: Real-world uses of FPGA-based designs.
 
-## Examples ([Details]([#example-details](https://github.com/ShawnCai223/Logic-Circuits-and-Application-of-FPGA/tree/main/FPGA_Example)))
+## Examples ([Details]((https://github.com/ShawnCai223/Logic-Circuits-and-Application-of-FPGA/tree/main/FPGA_Example)))
 
 1. **Basic Combinational Circuits**: Fundamental digital logic circuits like adders, multiplexers, and encoders.
 2. **Sequential Circuits**: Flip-flops, counters, and clock dividers.
