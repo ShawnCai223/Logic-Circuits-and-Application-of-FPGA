@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov  9 10:06:50 2022
+# Process ID: 40760
+# Current directory: E:/Class/FPGA_class/Example/inClassExample_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent35540 E:\Class\FPGA_class\Example\inClassExample_1\inClassExample_1.xpr
+# Log file: E:/Class/FPGA_class/Example/inClassExample_1/vivado.log
+# Journal file: E:/Class/FPGA_class/Example/inClassExample_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Class/FPGA_class/Example/inClassExample_1/inClassExample_1.xpr
+INFO: [Project 1-313] Project file moved from 'D:/Users/20401/FPGAclass/inClassExample_1' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'E:/Class/FPGA_class/Example/Basys3.xdc', nor could it be found using path 'D:/Users/20401/FPGAclass/Basys3.xdc'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] Board Part Repository Path: Could not find the directory 'C:/Users/20401/AppData/Roaming/Xilinx/Vivado/2020.1/xhub/board_store/xilinx_board_store'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2020.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Nov  9 10:07:10 2022...

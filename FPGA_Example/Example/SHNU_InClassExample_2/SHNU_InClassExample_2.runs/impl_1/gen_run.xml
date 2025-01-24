@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1666664376">
+  <File Type="BITSTR-BMM" Name="Bin8ToBCD_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Bin8ToBCD_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Bin8ToBCD_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Bin8ToBCD_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Bin8ToBCD.tcl"/>
+  <File Type="OPT-TIMING" Name="Bin8ToBCD_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Bin8ToBCD_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Bin8ToBCD_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Bin8ToBCD_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Bin8ToBCD_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Bin8ToBCD.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Bin8ToBCD_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Bin8ToBCD_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Bin8ToBCD_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Bin8ToBCD_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Bin8ToBCD_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Bin8ToBCD_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Bin8ToBCD_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Bin8ToBCD_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Bin8ToBCD_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Bin8ToBCD_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Bin8ToBCD_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Bin8ToBCD_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Bin8ToBCD_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Bin8ToBCD.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Bin8ToBCD_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Bin8ToBCD_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Bin8ToBCD_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Bin8ToBCD.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Bin8ToBCD_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Bin8ToBCD_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Bin8ToBCD_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Bin8ToBCD_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Bin8ToBCD_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Bin8ToBCD_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Bin8ToBCD_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Bin8ToBCD.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Bin8ToBCD_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Bin8ToBCD_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Bin8ToBCD_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Bin8ToBCD_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Bin8ToBCD_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Bin8ToBCD_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Bin8ToBCD_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Bin8ToBCD_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Bin8ToBCD_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Bin8ToBCD_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Bin8ToBCD_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Bin8ToBCD_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Bin8ToBCD_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Bin8ToBCD_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Bin8ToBCD_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Bin8ToBCD_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Bin8ToBCD_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Bin8ToBCD_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Bin8ToBCD_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Bin8ToBCD_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Bin8ToBCD_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Bin8ToBCD.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Bin8ToBCD_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Bin8ToBCD.rbt"/>
+  <File Type="BITSTR-NKY" Name="Bin8ToBCD.nky"/>
+  <File Type="PDI-FILE" Name="Bin8ToBCD.pdi"/>
+  <File Type="RCFI_FILE" Name="Bin8ToBCD.rcfi"/>
+  <File Type="CFI_FILE" Name="Bin8ToBCD.cfi"/>
+  <File Type="RNPI_FILE" Name="Bin8ToBCD.rnpi"/>
+  <File Type="NPI_FILE" Name="Bin8ToBCD.npi"/>
+  <File Type="RBD_FILE" Name="Bin8ToBCD.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Bin8ToBCD.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Bin8ToBCD.sysdef"/>
+  <File Type="BG-BGN" Name="Bin8ToBCD.bgn"/>
+  <File Type="BG-DRC" Name="Bin8ToBCD.drc"/>
+  <File Type="RDI-RDI" Name="Bin8ToBCD.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Example2.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Bin8ToBCD"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="C:/Users/20401/Desktop/FPGA/Basys.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

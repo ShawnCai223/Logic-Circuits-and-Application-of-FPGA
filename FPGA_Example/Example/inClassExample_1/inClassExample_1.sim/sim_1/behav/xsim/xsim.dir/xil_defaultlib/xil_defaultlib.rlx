@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Users/20401/FPGAclass/inClassExample_1/inClassExample_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Users/20401/FPGAclass/inClassExample_1/inClassExample_1.srcs/sim_1/new/Tester.v,1663579380,verilog,,,,Tester,,,,,,,,
+D:/Users/20401/FPGAclass/inClassExample_1/inClassExample_1.srcs/sources_1/new/EvenParity.v,1663734874,verilog,,,,EvenParity,,,,,,,,
+D:/Users/20401/FPGAclass/inClassExample_1/inClassExample_1.srcs/sources_1/new/Example1.v,1663589550,verilog,,D:/Users/20401/FPGAclass/inClassExample_1/inClassExample_1.srcs/sim_1/new/Tester.v,,FullAdder;FullAdder8;Majority3;Mux4,,,,,,,,

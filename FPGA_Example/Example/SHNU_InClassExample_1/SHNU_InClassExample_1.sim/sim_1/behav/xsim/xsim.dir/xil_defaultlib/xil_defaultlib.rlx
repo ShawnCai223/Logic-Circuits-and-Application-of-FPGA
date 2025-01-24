@@ -1,0 +1,7 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Users/20401/FPGAclass/SHNU_InClassExample_1/SHNU_InClassExample_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Users/20401/FPGAclass/SHNU_InClassExample_1/SHNU_InClassExample_1.srcs/sim_1/new/Tester.v,1664778506,verilog,,,,Tester,,,,,,,,
+D:/Users/20401/FPGAclass/SHNU_InClassExample_1/SHNU_InClassExample_1.srcs/sources_1/new/Example1.v,1664942652,verilog,,D:/Users/20401/FPGAclass/SHNU_InClassExample_1/SHNU_InClassExample_1.srcs/sim_1/new/Tester.v,,EvenParity;FullAdder;FullAdder8;Majority3;Mux4;Mux4_DF;SR4_B;SR4_NB;comp4;decoder_38,,,,,,,,

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Sep 21 20:08:24 2022
+# Process ID: 41276
+# Current directory: D:/Users/20401/FPGAclass/REinClassProject_1/REinClassProject_1.runs/synth_1
+# Command line: vivado.exe -log sr4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sr4.tcl
+# Log file: D:/Users/20401/FPGAclass/REinClassProject_1/REinClassProject_1.runs/synth_1/sr4.vds
+# Journal file: D:/Users/20401/FPGAclass/REinClassProject_1/REinClassProject_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sr4.tcl -notrace

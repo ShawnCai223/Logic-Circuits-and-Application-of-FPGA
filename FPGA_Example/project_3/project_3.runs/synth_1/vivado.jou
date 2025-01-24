@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Nov  1 21:11:33 2022
+# Process ID: 20300
+# Current directory: E:/Users/jxcai/FPGA_class/project_3/project_3.runs/synth_1
+# Command line: vivado.exe -log yi4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source yi4.tcl
+# Log file: E:/Users/jxcai/FPGA_class/project_3/project_3.runs/synth_1/yi4.vds
+# Journal file: E:/Users/jxcai/FPGA_class/project_3/project_3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source yi4.tcl -notrace

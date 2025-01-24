@@ -1,0 +1,47 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov  9 10:07:15 2022
+# Process ID: 39536
+# Current directory: E:/Class/FPGA_class/Example/SHNU_InClassExample_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent39992 E:\Class\FPGA_class\Example\SHNU_InClassExample_1\SHNU_InClassExample_1.xpr
+# Log file: E:/Class/FPGA_class/Example/SHNU_InClassExample_1/vivado.log
+# Journal file: E:/Class/FPGA_class/Example/SHNU_InClassExample_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_1/SHNU_InClassExample_1.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_2/SHNU_InClassExample_2.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_3/SHNU_InClassExample_3.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_4/SHNU_InClassExample_4.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_2/SHNU_InClassExample_2.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_3/SHNU_InClassExample_3.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_4/SHNU_InClassExample_4.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project E:/Class/FPGA_class/Example/SHNU_InClassExample_5/SHNU_InClassExample_5.xpr
+update_compile_order -fileset sources_1
+close_project
+create_project EXAMPLE E:/Class/FPGA_class/Example -part xc7a35tcpg236-1
+set_property board_part digilentinc.com:basys3:part0:1.1 [current_project]
+file mkdir E:/Class/FPGA_class/Example/EXAMPLE.srcs/sources_1/new
+close [ open E:/Class/FPGA_class/Example/EXAMPLE.srcs/sources_1/new/example.v w ]
+add_files E:/Class/FPGA_class/Example/EXAMPLE.srcs/sources_1/new/example.v
+update_compile_order -fileset sources_1
+file mkdir E:/Class/FPGA_class/Example/EXAMPLE.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open E:/Class/FPGA_class/Example/EXAMPLE.srcs/sim_1/new/test.v w ]
+add_files -fileset sim_1 E:/Class/FPGA_class/Example/EXAMPLE.srcs/sim_1/new/test.v
+update_compile_order -fileset sim_1
